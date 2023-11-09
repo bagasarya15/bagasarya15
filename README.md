@@ -28,7 +28,7 @@ I'm a passionate Full Stack Developer from Indonesia.
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img alt="Bagas Arya Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=bagasarya15&bg_color=050f2c&color=58a6ff&line=000080&point=FFFFFF&area=true&hide_border=true" /></a>
 
 ### Connect With Me
-<a href="https://www.linkedin.com/in/ario-prima/">
+<a href="https://www.linkedin.com/in/bagas-a-048582132/">
   <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn">
 <a href = "mailto:bagasarya150800@gmail.com">
   <img src="https://img.icons8.com/fluent/48/000000/gmail.png"/>

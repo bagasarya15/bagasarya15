@@ -21,14 +21,14 @@ I'm a passionate Backend Developer from Indonesia.
 <!-- <p align="left"> -->
     
 <a href="https://github.com/bagasarya15">
-  <img height="180em" width="49.5%" style="margin: 40;" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bagasarya15&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="49.5%" style="margin: 40;" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bagasarya15&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" width="49.5%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bagasarya15&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="49.5%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bagasarya15&layout=compact&langs_count=8&theme=algolia"/>
 </a>
   
 <!-- </p> -->
 <br>
 
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img alt="Bagas Arya Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=bagasarya15&bg_color=050f2c&color=58a6ff&line=000080&point=FFFFFF&area=true&hide_border=true" /></a>
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph" style="margin-top: 50%;" ><img alt="Bagas Arya Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=bagasarya15&bg_color=050f2c&color=58a6ff&line=000080&point=FFFFFF&area=true&hide_border=true" /></a>
 
 ### Connect With Me
 <a href="https://www.linkedin.com/in/bagas-a-048582132/">

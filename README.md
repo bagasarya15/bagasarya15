@@ -21,8 +21,8 @@ I'm a passionate Backend Developer from Indonesia.
 <!-- <p align="left"> -->
     
 <a href="https://github.com/bagasarya15">
-  <img height="180em" width="49.5%" style="margin-bottom: 3px;" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bagasarya15&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="49.5%" style="margin-bottom: 3px;" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bagasarya15&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" width="49.5%" style="margin-bottom: 10%;" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bagasarya15&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="49.5%" style="margin-bottom: 10%;" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bagasarya15&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 
   

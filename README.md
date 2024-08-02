@@ -8,7 +8,7 @@
 <h1 style="text-align:center;border:0;font-family:'Poppins',sans-serif;font-weight:600;letter-spacing:1.2px;" align="center">Hi! I'm Bagas Arya Pradipta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
 I'm a passionate Backend Developer from Indonesia.
-- 🔭 I’m currently studying on Universitas Indraprasta PGRI
+- 🔭 I’m graduated from Indraprasta PGRI University
 - 🌱 I’m learning about Frontend Web & Backend, 
 - 📫 How to reach me: bagasarya150800@gmail.com
 

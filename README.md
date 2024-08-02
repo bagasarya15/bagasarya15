@@ -26,7 +26,7 @@ I'm a passionate Backend Developer from Indonesia.
   </a>
   
 <!-- </p> -->
-
+<br>
 
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img alt="Bagas Arya Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=bagasarya15&bg_color=050f2c&color=58a6ff&line=000080&point=FFFFFF&area=true&hide_border=true" /></a>
 
